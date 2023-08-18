@@ -1,0 +1,35 @@
+Git adalah singkatan dari Group Inclusive Tour. Git merupakan version control system yang gratis dan juga open source. Git dirancang untuk menangani segala project baik itu project besar atau project sederhana. Git memungkinkan para pengembang untuk bekerja secara bersama-sama pada proyek yang sama dan melacak setiap perubahan yang dilakukan pada source code.  Terdapat 2 sistem git, yaitu 
+1. Centralized
+
+Git centralized berkerja hanya dengan menggunakan satu server yang berfungsi untuk menyimpan data dari project. Sistem git ini membutuhkan koneksi network untuk dapat mengakses data dari project. Selain itu, ketika terjadi sesuatu pada server seperti server corrupt, maka data project yang ada di dalam server akan berpotensi untuk hilang juga.
+
+2.  Distributed
+
+Git distributed bekerja dengan menyimpan data project di lokal dan juga di server. Sehingga lebih aman ketika terjadi sesuatu pada server seperti server corrupt karena sudah terdapat backup dari data project di lokal.
+
+fitur fitur git meliputi: 
+a. version control
+b. git branch
+c. merging
+d. staging area
+e. git rebase
+f. hooks
+g. gui tools
+
+keunggulan dan kelemahan git
+* Keunggulan
+a. Dapat mengelola versi kode sumber dengan mudah dan efisien.
+
+b. Dapat melakukan branching dan merging dengan mudah dan aman.
+
+c. Dapat melacak perubahan dan siapa yang membuat perubahan pada source code.
+
+d. Memiliki performa yang cepat dan stabil dalam pengelolaan kode sumber yang besar.
+
+* Kelemahan
+
+a. Memiliki fitur yang kompleks dan terkadang membingungkan bagi pengguna yang kurang berpengalaman.
+
+b. Memerlukan pemahaman yang baik tentang konsep dasar seperti repository, commit, branching, dan merging.
+
+c. Sulit digunakan untuk pengelolaan file biner atau non-teks, seperti gambar atau video.
